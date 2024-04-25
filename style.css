@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    font-family:arial;
+    border:border-box;
+}
+.navbar{
+    height:60px;
+    background-color:#0f1111;
+    color:white;
+    display:flex;
+}
+.nav-logo{
+    height:60px;
+    width:150px;
+}
+.logo{
+    background-image:url("download1.png");
+    background-size: 95%;
+    background-repeat: no-repeat;
+    height:50px;
+}
+.border{
+    border:1px solid transparent;
+}
+.border:hover{
+    border:1px solid white;
+}
+.deliv{
+height:50px;
+width:70px;
+padding:10px;
+align-items:center;
+}
+.a{
+    display:flex;
+    align-items: center;
+}
+.first{
+    color:#cccccc;
+    margin-left:5px;
+    font-size:0.8em;
+    text-align:left;
+
+}
+.sec{
+    color:white;
+    margin-left:5px;
+    font-size: 1em;
+    text-align:left;
+
+}
+.deliv-logo{
+    margin-top: 12px;;
+}
+.search{
+    width:600px;
+    margin-top:10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: white;
+    display: flex;
+}
+.all{
+    width:50px;
+    font-size: 14px;
+    background-color: rgba(213, 213, 211, 0.566);
+    margin:0px;
+    height:36.5px;
+    border-color:rgb(189, 189, 189);
+    border-right-width:0.01em;
+    border-style: solid;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    color:#6a6c6c;
+
+}
+.ama{
+    color:#6a6c6c;
+    font-size-20px;
+    width:500px;
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 8px;
+}
+.search-icon{
+    width:45px;
+    background-color:rgb(252, 186, 99);
+    color:black;
+    font-size:25px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+    
