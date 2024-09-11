@@ -217,7 +217,7 @@ align-items:center;
     padding:5px 9px 5px 9px;
 }
 @keyframes animate{
-    0%{ background-image:url("C:\Users\Vashni\OneDrive\Documents\AMAZONE CLONE\beauty.jpg");}
+    0%{ background-image:url("mom.jpg");}
 10%{ background-image:url("mom.jpg");}
     20%{background-image:url("kitchen.jpg");}
 40%{background-image:url("books.jpg")}
